@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hollow](https://emoji.gg/assets/emoji/5863_Hollow.png)
